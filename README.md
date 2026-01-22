@@ -1,2 +1,1 @@
-# tcsjan2026repo
-Repository for TCS Jan 2026 session
+Hello TCS Folks how are you all doing !! Happy Coding !!
